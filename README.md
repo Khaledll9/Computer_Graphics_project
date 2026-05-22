@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ============================================================ -->
 <!--  SHAPE COLLECTOR — README                                     -->
 <!--  Generated from full source analysis of game.h, game.cpp,      -->
